@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04._Recursive_Factorial", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05._Paths_in_Labyrinth", "P05._Paths_in_Labyrinth\P05._Paths_in_Labyrinth.csproj", "{A80694B0-C87D-4F2D-9A63-F980E47534D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.8_Queens_Puzzle", "P06.8_Queens_Puzzle\P06.8_Queens_Puzzle.csproj", "{7CBA22CE-7D12-4809-B9A7-FEB6397BCE6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07.Recursive_Fibonacci", "P07.Recursive_Fibonacci\P07.Recursive_Fibonacci.csproj", "{212762A0-7F91-45CB-8099-A551C9B113A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07a.RecursiveFibonacci_Memoization", "P07a.RecursiveFibonacci_Memoization\P07a.RecursiveFibonacci_Memoization.csproj", "{2CAE96C6-C943-4B9D-AE90-295A44DBC5BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +45,18 @@ Global
 		{A80694B0-C87D-4F2D-9A63-F980E47534D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A80694B0-C87D-4F2D-9A63-F980E47534D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A80694B0-C87D-4F2D-9A63-F980E47534D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CBA22CE-7D12-4809-B9A7-FEB6397BCE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBA22CE-7D12-4809-B9A7-FEB6397BCE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBA22CE-7D12-4809-B9A7-FEB6397BCE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBA22CE-7D12-4809-B9A7-FEB6397BCE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212762A0-7F91-45CB-8099-A551C9B113A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212762A0-7F91-45CB-8099-A551C9B113A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212762A0-7F91-45CB-8099-A551C9B113A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212762A0-7F91-45CB-8099-A551C9B113A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAE96C6-C943-4B9D-AE90-295A44DBC5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAE96C6-C943-4B9D-AE90-295A44DBC5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAE96C6-C943-4B9D-AE90-295A44DBC5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAE96C6-C943-4B9D-AE90-295A44DBC5BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
