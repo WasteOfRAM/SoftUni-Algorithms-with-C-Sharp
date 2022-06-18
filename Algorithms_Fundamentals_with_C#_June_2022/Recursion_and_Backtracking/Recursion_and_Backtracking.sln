@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.Recursive_Array_Sum", "P01.Recursive_Array_Sum\P01.Recursive_Array_Sum.csproj", "{9BA53FF1-6DA4-4399-AE2E-5E99FB0FC268}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.Recursive_Drawing", "P02.Recursive_Drawing\P02.Recursive_Drawing.csproj", "{C354CE33-8244-4B46-9CCD-586BD35EE958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03._Generating_0-1_Vectors", "P03._Generating_0-1_Vectors\P03._Generating_0-1_Vectors.csproj", "{5050AD57-57AA-4F3D-ABF7-FE7F6F72B01D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9BA53FF1-6DA4-4399-AE2E-5E99FB0FC268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BA53FF1-6DA4-4399-AE2E-5E99FB0FC268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BA53FF1-6DA4-4399-AE2E-5E99FB0FC268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C354CE33-8244-4B46-9CCD-586BD35EE958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C354CE33-8244-4B46-9CCD-586BD35EE958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C354CE33-8244-4B46-9CCD-586BD35EE958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C354CE33-8244-4B46-9CCD-586BD35EE958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5050AD57-57AA-4F3D-ABF7-FE7F6F72B01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5050AD57-57AA-4F3D-ABF7-FE7F6F72B01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5050AD57-57AA-4F3D-ABF7-FE7F6F72B01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5050AD57-57AA-4F3D-ABF7-FE7F6F72B01D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
