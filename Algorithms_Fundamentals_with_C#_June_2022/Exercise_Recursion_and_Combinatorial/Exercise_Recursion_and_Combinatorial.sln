@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.Reverse_Array", "P01.Reverse_Array\P01.Reverse_Array.csproj", "{1C98DB7C-3048-4A14-B9BB-A835F7E50126}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.Reverse_Array", "P01.Reverse_Array\P01.Reverse_Array.csproj", "{1C98DB7C-3048-4A14-B9BB-A835F7E50126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.Nested_Loops", "P02.Nested_Loops\P02.Nested_Loops.csproj", "{21068051-07C8-4C4F-8F73-5C536FF93A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.Connected_Areas", "P03.Connected_Areas\P03.Connected_Areas.csproj", "{6C1DE5DB-7B9F-4108-B352-B9BBA2B27E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.Cinema", "P04.Cinema\P04.Cinema.csproj", "{1CEFE414-EC5E-49AF-A445-8DA9EA188FB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{1C98DB7C-3048-4A14-B9BB-A835F7E50126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C98DB7C-3048-4A14-B9BB-A835F7E50126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C98DB7C-3048-4A14-B9BB-A835F7E50126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21068051-07C8-4C4F-8F73-5C536FF93A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21068051-07C8-4C4F-8F73-5C536FF93A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21068051-07C8-4C4F-8F73-5C536FF93A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21068051-07C8-4C4F-8F73-5C536FF93A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1DE5DB-7B9F-4108-B352-B9BBA2B27E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1DE5DB-7B9F-4108-B352-B9BBA2B27E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1DE5DB-7B9F-4108-B352-B9BBA2B27E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1DE5DB-7B9F-4108-B352-B9BBA2B27E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEFE414-EC5E-49AF-A445-8DA9EA188FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEFE414-EC5E-49AF-A445-8DA9EA188FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEFE414-EC5E-49AF-A445-8DA9EA188FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEFE414-EC5E-49AF-A445-8DA9EA188FB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
