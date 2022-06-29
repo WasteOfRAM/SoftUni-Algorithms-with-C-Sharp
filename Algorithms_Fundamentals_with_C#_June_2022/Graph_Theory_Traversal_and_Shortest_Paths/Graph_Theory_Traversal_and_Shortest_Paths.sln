@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.ConnectedComponents", "P01.ConnectedComponents\P01.ConnectedComponents.csproj", "{DF77013D-8E9C-482C-AC13-5D97632A0715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.ConnectedComponents", "P01.ConnectedComponents\P01.ConnectedComponents.csproj", "{DF77013D-8E9C-482C-AC13-5D97632A0715}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.TopologicalSorting", "P02.TopologicalSorting\P02.TopologicalSorting.csproj", "{F33CA82F-B561-4069-B405-9AD749F59A58}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02a.DFS_TopologicalSorting", "P02a.DFS_TopologicalSorting\P02a.DFS_TopologicalSorting.csproj", "{52FC8DCF-C984-4B88-8EFC-181AB9ABB5CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.Shortest_Path", "P03.Shortest_Path\P03.Shortest_Path.csproj", "{152DEDEB-FD17-43C6-BF7A-EC1C2E4C5F09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{52FC8DCF-C984-4B88-8EFC-181AB9ABB5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52FC8DCF-C984-4B88-8EFC-181AB9ABB5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52FC8DCF-C984-4B88-8EFC-181AB9ABB5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{152DEDEB-FD17-43C6-BF7A-EC1C2E4C5F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152DEDEB-FD17-43C6-BF7A-EC1C2E4C5F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152DEDEB-FD17-43C6-BF7A-EC1C2E4C5F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152DEDEB-FD17-43C6-BF7A-EC1C2E4C5F09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
