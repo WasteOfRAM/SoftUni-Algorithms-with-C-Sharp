@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subset_Sum", "Subset_Sum\Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subset_Sum_With_Repetition", "Subset_Sum_With_Repetition\Subset_Sum_With_Repetition.csproj", "{2E595B3C-244A-4FF1-9F02-98205E7BAFAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.Move_Down_Right", "P02.Move_Down_Right\P02.Move_Down_Right.csproj", "{9EC72B81-F7DB-4DAE-9AA1-3F77A460CB77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.Longest_Common_Subsequence", "P03.Longest_Common_Subsequence\P03.Longest_Common_Subsequence.csproj", "{94748F92-45E2-4ABB-97ED-BF51BC465DB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{2E595B3C-244A-4FF1-9F02-98205E7BAFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E595B3C-244A-4FF1-9F02-98205E7BAFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E595B3C-244A-4FF1-9F02-98205E7BAFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC72B81-F7DB-4DAE-9AA1-3F77A460CB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC72B81-F7DB-4DAE-9AA1-3F77A460CB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC72B81-F7DB-4DAE-9AA1-3F77A460CB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC72B81-F7DB-4DAE-9AA1-3F77A460CB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94748F92-45E2-4ABB-97ED-BF51BC465DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94748F92-45E2-4ABB-97ED-BF51BC465DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94748F92-45E2-4ABB-97ED-BF51BC465DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94748F92-45E2-4ABB-97ED-BF51BC465DB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
