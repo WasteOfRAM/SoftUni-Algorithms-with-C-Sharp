@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.Dijkstra's_Algorithm", "P01.Dijkstra's_Algorithm\P01.Dijkstra's_Algorithm.csproj", "{AF5263AC-6CF9-4621-9658-6E7750B4DB56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.Kruskal_Algorithm", "P02.Kruskal_Algorithm\P02.Kruskal_Algorithm.csproj", "{79B635A1-5075-477F-82DA-BB29E42A738C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.Kruskal_Algorithm", "P02.Kruskal_Algorithm\P02.Kruskal_Algorithm.csproj", "{79B635A1-5075-477F-82DA-BB29E42A738C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.Prim_Algorithm", "P03.Prim_Algorithm\P03.Prim_Algorithm.csproj", "{2941BF85-03C6-4211-99FC-F2A382BD604D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{79B635A1-5075-477F-82DA-BB29E42A738C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79B635A1-5075-477F-82DA-BB29E42A738C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79B635A1-5075-477F-82DA-BB29E42A738C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2941BF85-03C6-4211-99FC-F2A382BD604D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2941BF85-03C6-4211-99FC-F2A382BD604D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2941BF85-03C6-4211-99FC-F2A382BD604D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2941BF85-03C6-4211-99FC-F2A382BD604D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
