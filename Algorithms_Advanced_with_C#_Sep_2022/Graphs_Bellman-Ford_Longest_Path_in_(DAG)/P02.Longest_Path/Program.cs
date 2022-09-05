@@ -56,6 +56,7 @@ namespace P02.Longest_Path
             Console.WriteLine(distances[destination]);
         }
 
+        // Longest Path in (DAG)
         private static void LongestPath(Stack<int> sorted)
         {
             while (sorted.Count > 0)
