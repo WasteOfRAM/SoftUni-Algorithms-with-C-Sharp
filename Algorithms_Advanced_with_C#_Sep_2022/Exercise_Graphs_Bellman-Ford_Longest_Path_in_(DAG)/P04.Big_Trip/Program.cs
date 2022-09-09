@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-namespace P04.Big_Trip
+﻿namespace P04.Big_Trip
 {
     using System;
     using System.Collections.Generic;
