@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.Undefined", "P03.Undefi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04.Big_Trip", "P04.Big_Trip\P04.Big_Trip.csproj", "{583CA8A1-2603-40C8-8A6D-4A5F07E75EFB}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05.Cable_Network", "P05.Cable_Network\P05.Cable_Network.csproj", "{C22C872E-7538-46D2-BBF7-6DB4108E96F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{583CA8A1-2603-40C8-8A6D-4A5F07E75EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{583CA8A1-2603-40C8-8A6D-4A5F07E75EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{583CA8A1-2603-40C8-8A6D-4A5F07E75EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C22C872E-7538-46D2-BBF7-6DB4108E96F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22C872E-7538-46D2-BBF7-6DB4108E96F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22C872E-7538-46D2-BBF7-6DB4108E96F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22C872E-7538-46D2-BBF7-6DB4108E96F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
