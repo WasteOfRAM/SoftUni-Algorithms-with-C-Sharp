@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.Most_Reliable_Path", "P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.Cheap_Town_Tour", "P02.Cheap_Town_Tour\P02.Cheap_Town_Tour.csproj", "{AFC67F8A-241A-425D-A772-C76AFBE7535E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.Undefined", "P03.Undefined\P03.Undefined.csproj", "{596E463C-7E03-4BA0-B2F8-55F8229391BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AFC67F8A-241A-425D-A772-C76AFBE7535E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFC67F8A-241A-425D-A772-C76AFBE7535E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFC67F8A-241A-425D-A772-C76AFBE7535E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596E463C-7E03-4BA0-B2F8-55F8229391BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596E463C-7E03-4BA0-B2F8-55F8229391BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596E463C-7E03-4BA0-B2F8-55F8229391BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596E463C-7E03-4BA0-B2F8-55F8229391BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
