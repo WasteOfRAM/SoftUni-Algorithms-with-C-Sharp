@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.Electrical_Substation_Network", "P01.Electrical_Substation_Network\P01.Electrical_Substation_Network.csproj", "{53D41B19-9FA7-434A-AA7A-2F5B9C266884}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.Maximum_Tasks_Assignment", "P02.Maximum_Tasks_Assignment\P02.Maximum_Tasks_Assignment.csproj", "{74105FD9-4C68-4D5E-AFF5-4F61F2665E83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.Find_Bi-Connected_Components", "P03.Find_Bi-Connected_Components\P03.Find_Bi-Connected_Components.csproj", "{01F8DD66-2864-4933-B529-AC3DF161B361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D41B19-9FA7-434A-AA7A-2F5B9C266884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D41B19-9FA7-434A-AA7A-2F5B9C266884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D41B19-9FA7-434A-AA7A-2F5B9C266884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D41B19-9FA7-434A-AA7A-2F5B9C266884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74105FD9-4C68-4D5E-AFF5-4F61F2665E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74105FD9-4C68-4D5E-AFF5-4F61F2665E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74105FD9-4C68-4D5E-AFF5-4F61F2665E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74105FD9-4C68-4D5E-AFF5-4F61F2665E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F8DD66-2864-4933-B529-AC3DF161B361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F8DD66-2864-4933-B529-AC3DF161B361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F8DD66-2864-4933-B529-AC3DF161B361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F8DD66-2864-4933-B529-AC3DF161B361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93342DC6-55FC-4278-8DB5-A17E392B4C39}
+	EndGlobalSection
+EndGlobal
